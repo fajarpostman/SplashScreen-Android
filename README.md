@@ -11,5 +11,3 @@ The point is Splash Screen is the opening view of an application that ussually d
 
 First Step :
 you must creating a layout, create a simple layout for splash screen
-
-![alt text](https://ibb.co/mnCYHK/to/splashscreen.jpg)
