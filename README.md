@@ -8,3 +8,6 @@ A splash screen is a graphical control element consisting of a window containing
 A splash screen may cover the entire screen or web page; or may simply be a rectangle near the center of the screen or page. The splash screens of operating systems and some applications that expect to be run in full screen usually cover the entire screen.(Lennartz, Sven (October 11, 2007). "Splash Pages: Do We Really Need Them?")
 
 The point is Splash Screen is the opening view of an application that ussually displays a logo.
+
+Here and this is the result.
+![screenshot_2018-06-27-14-18-02](https://user-images.githubusercontent.com/32099319/45629477-b8b29a80-bac0-11e8-9735-9dc9bbae5380.png)
