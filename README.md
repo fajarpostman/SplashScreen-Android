@@ -10,4 +10,6 @@ A splash screen may cover the entire screen or web page; or may simply be a rect
 The point is Splash Screen is the opening view of an application that ussually displays a logo.
 
 Here and this is the result.
+
+
 ![screenshot_2018-06-27-14-18-02](https://user-images.githubusercontent.com/32099319/45629477-b8b29a80-bac0-11e8-9735-9dc9bbae5380.png)
