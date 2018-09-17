@@ -10,4 +10,5 @@ A splash screen may cover the entire screen or web page; or may simply be a rect
 The point is Splash Screen is the opening view of an application that ussually displays a logo.
 
 First Step :
-you must creating a layout, create a simple layout for splash screen
+
+![alt text](https://raw.githubusercontent.com/fajarpostman/SplashScreen-Android/branch/path/to/Screenshot_2018-06-27-14-18-02.png)
