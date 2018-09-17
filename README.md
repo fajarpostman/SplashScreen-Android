@@ -1,7 +1,7 @@
 # SplashScreen-Android
 How To Create Splash Screen In Andorid Studio
 
-Assalamuaiakum.
+Hello.
 I want to tell you about how to create Splash Screen in Andorid.
 A splash screen is a graphical control element consisting of a window containing an image, a logo, and the current version of the software. A splash screen usually appears while a game or program is launching. A splash page is an introduction page on a website. (Kyrnin, Jennifer. "Pros and Cons of Splash Pages in Web Design").
 
